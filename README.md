@@ -142,16 +142,6 @@ daily_routine: ["☕ Coffee", "💻 Code", "📊 Data", "🤖 AI", "🔁 Repeat"
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ShivSupane&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
