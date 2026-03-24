@@ -42,10 +42,15 @@ daily_routine: ["☕ Coffee", "💻 Code", "📊 Data", "🤖 AI", "🔁 Repeat"
 ### 🚀 What I'm Up To
 
 - 🔭 Building AI/ML projects including **LLM, RAG, and multi-agent systems** with cloud integration
+
 - 🌱 Currently learning **Machine Learning, Deep Learning, Data Science, Hugging Face, and Cloud (AWS)**
+  
 - 👯 Looking to collaborate on **AI/ML, Data Science, and open-source projects** involving real-world problem solving
+  
 - 🆘 Looking for help with **advanced AI architectures, scalable deployments, and optimizing ML models**
+  
 - 💬 Ask me about **Python, Data Analysis, Cloud Computing-AWS, AI projects, and ML concepts**
+  
 - ⚡ I have a strong execution mindset — **I focus on completing what I start**
 
 ---
