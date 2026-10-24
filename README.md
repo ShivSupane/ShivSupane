@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 ```yaml
 name: Shivprasad Supane
@@ -123,6 +123,21 @@ daily_routine: ["☕ Coffee", "💻 Code", "📊 Data", "🤖 AI", "🔁 Repeat"
 #### 🔐 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivSupane&theme=tokyonight)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShivSupane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivSupane&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShivSupane&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
