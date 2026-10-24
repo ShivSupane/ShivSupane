@@ -141,19 +141,6 @@ daily_routine: ["☕ Coffee", "💻 Code", "📊 Data", "🤖 AI", "🔁 Repeat"
 
 </div>
 
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivSupane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ShivSupane&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivSupane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivSupane&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 ---
 
